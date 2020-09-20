@@ -1,0 +1,1034 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 0;
+	padding: 0;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+
+h1,h2,h3,h4,h5,h6,p,span,button,a{
+	font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+	background-color: #eaae00 !important;
+	padding: 20px !important;
+}
+
+.nav-item{
+	font-family: 'Poppins', sans-serif !important;
+	font-size: 25px !important;
+	color: white !important;
+	margin-left: 20px !important;
+}
+
+.nav-item a{
+	
+	color: white !important;
+	transition: all 0.5s ease-in-out;
+}
+
+
+.nav-item a:hover{
+	transition: all 0.5s ease-in-out;
+	color: black !important;
+}
+
+.navbar-nav{
+	margin-left: 80px !important;
+}
+
+.navbar-brand{
+	margin-left: 20px !important;
+}
+
+
+/****************************/
+/*body-01 code start here*/
+/****************************/
+.body-01{
+	width: 100%;
+	padding: 50px 0px;
+	background-color: #ffc400;
+}
+
+.body-01 h1{
+	margin-top: 100px;
+	font-weight: bold;
+	font-size: 65px;
+	color: white;
+}
+
+.body-01 p{
+	color: white;
+	font-size: 28px;
+	margin-top: 25px;
+}
+.body-01 button{
+	margin-top: 35px;
+	padding: 18px 28px;
+	border: none;
+	border: 2px solid white;
+	color: white;
+	background-color: transparent;
+	border-radius: 5px;
+	font-weight: 600;
+	font-size: 17px;
+	transition: all 0.5s ease-in-out;
+}
+
+.body-01 button:hover{
+	background-color: #00bfcb;
+	border: 2px solid #00bfcb;
+	transition: all 0.5s ease-in-out;
+}
+
+.b02{
+	margin-left: 30px;
+}
+
+
+
+/****************************/
+/*body-01 code end here*/
+/****************************/
+
+
+
+/****************************/
+/*body-02 code start here*/
+/****************************/
+.body-02{
+	width: 100%;
+	padding-bottom: 120px;
+}
+
+.body-02-text h1{
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 200px;
+}
+
+.body-02-text p{
+	font-size: 28px;
+	margin-top: 25px;
+}
+
+.body-02-text button{
+	margin-top: 35px;
+	padding: 18px 28px;
+	border: none;
+	border: 2px solid #ffc400;
+	color: white;
+	background-color: #ffc400;
+	border-radius: 5px;
+	font-weight: 600;
+	font-size: 18px;
+	transition: all 0.5s ease-in-out;
+}
+
+
+.body-02-text button:hover{
+	transition: all 0.5s ease-in-out;
+	background: transparent;
+	color: #ffc400;
+}
+
+.body-02-img{
+	margin-top: 120px;
+}
+
+
+
+
+/****************************/
+/*body-02 code end here*/
+/****************************/
+
+
+
+/****************************/
+/*body-03 code start here*/
+/****************************/
+.body-03{
+	width: 100%;
+	padding: 50px 0px;
+	background-color: #ffc400;
+	padding-bottom: 60px;
+}
+
+
+.body-03-header{
+	text-align: center;
+}
+
+
+.body-03-header h1{
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	margin-top: 50px;
+}
+
+.body-03-header p{
+	color: white;
+	font-size: 35px;
+	width: 65%;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+.body-03-text h1{
+	color: white;
+	font-weight: 600;
+	margin-left: 50px;
+	margin-top: 40px;
+}
+
+.body-03-text p{
+	color: white;
+	font-size: 27px;
+	width:95%; 
+	text-align: center;
+	line-height: 30px;
+	margin-top: 15px;
+}
+
+.body-03-img img{
+	margin-top: 100px;
+}
+/****************************/
+/*body-03 code end here*/
+/****************************/
+
+
+
+
+
+
+
+
+/****************************/
+/*body-04 code start here*/
+/****************************/
+
+.body-04{
+	width: 100%;
+	padding: 70px 0px;
+	text-align: right;
+	padding-bottom: 120px;
+}
+
+
+
+.body-04-text h1{
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 200px;
+}
+
+.body-04-text p{
+	font-size: 28px;
+	margin-top: 25px;
+}
+
+.body-04-text button{
+	margin-top: 35px;
+	padding: 18px 28px;
+	border: none;
+	border: 2px solid #ffc400;
+	color: white;
+	background-color: #ffc400;
+	border-radius: 5px;
+	font-weight: 600;
+	font-size: 18px;
+	transition: all 0.5s ease-in-out;
+}
+
+
+
+
+.body-04-text button:hover{
+	transition: all 0.5s ease-in-out;
+	background: transparent;
+	color: #ffc400;
+}
+
+.body-04-img{
+	margin-top: 120px;
+}
+
+
+/****************************/
+/*body-04 code start here*/
+/****************************/
+
+
+
+
+
+
+/****************************/
+/*body-05 start start here*/
+/****************************/
+.body-05{
+	width: 100%;
+	padding: 50px 0px;
+	background-color: #ffc400;
+	padding-bottom: 60px;
+}
+
+
+.body-05-header{
+	text-align: center;
+}
+
+
+.body-05-header h1{
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	margin-top: 50px;
+}
+
+.body-05-header p{
+	color: white;
+	font-size: 35px;
+	width: 65%;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.body-05-text h1{
+	margin-top: 30px;
+	display: inline-block;
+	font-weight: 600;
+	color: white;
+    margin-left: 20px;
+	
+}
+
+.body-05-text .uu{
+   text-decoration: line-through;
+   margin-left: 95px;
+}
+
+.body-05-button{
+	text-align: center;
+}
+
+.body-05-button button{
+	margin-top: 20px;
+	padding: 12px 50px;
+	border: none;
+	border-radius: 50px;
+	border: 2px solid #00bfcb;
+	color: white;
+	background-color: #00bfcb;
+	font-weight: 600;
+	font-size: 18px;
+	transition: all 0.5s ease-in-out;
+}
+
+
+.body-05-button button:hover{
+	background-color: #ffc400;
+	transition: all 0.5s ease-in-out;
+}
+
+.body-05-img img{
+	margin-top: 100px;
+}
+
+.body-05-text .ee{
+	margin-left: 10px;
+}
+
+
+/****************************/
+/*body-05 code end here*/
+/****************************/
+
+
+
+/****************************/
+/*body-06 code start here*/
+/****************************/
+
+.body-06{
+	padding: 70px;
+	width: 100%;
+	padding-bottom: 110px
+}
+
+
+.body-06-header{
+	text-align: center;
+}
+
+
+.body-06-header h1{
+	font-size: 70px;
+	font-weight: bold;
+	
+	margin-top: 50px;
+}
+
+.body-06-header p{
+	
+	font-size: 35px;
+	width: 65%;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+
+.body-06-text h2{
+	font-weight: 600;
+	margin-top: 30px;
+}
+
+.body-06-text p{
+	font-size: 25px;
+	margin-top: 5px;
+}
+.body-06-text{
+	text-align: center;
+}
+
+.body-06-text ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+
+
+.body-06-text ul li a i{
+	height: 35px;
+	width: 35px;
+	line-height: 35px;
+	text-align: center;
+	border: 1px solid #eaae00;
+	background-color: #eaae00;
+	color: white;
+    border-radius: 50%;
+    transition: all 0.5s ease-in-out;
+}
+
+.body-06-text ul li a i:hover{
+	background-color: white;
+	color: #eaae00;
+	transition: all 0.5s ease-in-out;
+}
+
+
+.body-06-img img{
+	margin-top: 80px;
+}
+
+/****************************/
+/*body-06 code end here*/
+/****************************/
+
+
+
+
+
+
+/****************************/
+/*body-07 code start here*/
+/****************************/
+.body-07{
+	width: 100%;
+	height: 85vh;
+	background-image: url(16.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.body-07-info{
+	text-align: center;
+}
+
+.body-07-info h3{
+	color: white;
+	font-weight: 600;
+	font-size: 35px;
+	margin-top: 40px;
+}
+
+.body-07-info h1{
+	font-weight: 600;
+	color: white;
+	font-size: 45px;
+	margin-top: 20px;
+}
+
+.body-07-info img{
+	margin-top: 180px;
+}
+
+/****************************/
+/*body-07 code end here*/
+/****************************/
+
+
+
+
+
+
+/****************************/
+/*body-08 code start here*/
+/****************************/
+.body-08{
+	width: 100%;
+	padding: 70px 0px;
+	padding-bottom: 110px;
+}
+
+.body-08-header{
+	text-align: center;
+}
+
+.body-08-header h1{
+	font-weight: bold;
+	font-size: 60px;
+	margin-top: 50px;
+}
+
+.body-08-header p{
+	font-size: 35px;
+	width: 70%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.card-title{
+	font-weight: bold;
+	width: 90%;
+	font-size: 25px;
+}
+
+.card-span{
+	color: #00d0d8;
+}
+
+.card-text{
+	font-size: 18px !important;
+	margin-top: 20px !important;
+}
+
+.card-button h5{
+	margin-top: 20px;
+	color: #00d0d8;
+}
+
+
+.card{
+	transition: all 0.5s ease-in-out;
+	margin-top: 100px !important;
+}
+
+.card:hover{
+	box-shadow: 7px 5px 10px #D6DBDF;
+	transition: all 0.5s ease-in-out;
+}
+
+/****************************/
+/*body-08 code end here*/
+/****************************/
+
+
+
+
+/****************************/
+/*body-09 code start here*/
+/****************************/
+.body-09{
+	width: 100%;
+	padding: 70px;
+	background-color: #313131;
+}
+
+.body-09 h1{
+	color: white;
+	font-weight: 600;
+}
+
+
+.body-09 ul li a{
+	color: white;
+	font-weight: 400;
+	font-size: 25px;
+}
+
+.body-09 ul{
+	margin-top: 25px;
+}
+
+.body-09 ul li{
+	margin-top: 10px;
+	list-style: none;
+}
+
+.futter-info{
+	text-align: right;
+}
+
+.futter-info h1{
+	font-weight: 900;
+	margin-top: 10px;
+}
+
+.futter-info p{
+	margin-top: 10px;
+	color: white;
+	font-size: 25px;
+}
+
+.input-group-text i{
+	font-size: 30px;
+	padding: 0 20px;
+}
+.input-group-text{
+	cursor: pointer;
+	background-color: #00bfcb;
+	color: white;
+}
+
+.input-group{
+	margin-top: 20px;
+}
+
+.form-control{
+	background-color: #eaae00 !important;
+}
+.input-group-prepend{
+	margin-left: 20px;
+}
+
+
+
+
+
+.futter-info ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+
+
+.futter-info ul li a i{
+	height: 45px;
+	width: 45px;
+	line-height: 45px;
+	text-align: center;
+	border: 1px solid white;
+	background-color: white;
+	color: black;
+    border-radius: 50%;
+    transition: all 0.5s ease-in-out;
+}
+
+.futter-info ul li a i:hover{
+	background-color: white;
+	color: #eaae00;
+	transition: all 0.5s ease-in-out;
+}
+
+/****************************/
+/*body-09 code end here*/
+/****************************/
+
+
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .navbar{
+  	display: list-item;
+  }
+
+
+  .body-01 h1{
+  	font-size: 0px;
+  	margin-top: 0px;
+  }
+
+  .body-01 button {
+  	padding: 12px 18px;
+}
+
+
+.body-01-img img{
+	width: 75%;
+}
+  
+  .body-02-text h1{
+  	font-size: 0px;
+  	margin-top:50px;
+  }
+
+.body-02-text button{
+	padding: 12px 18px;
+	margin-top: 15px;
+}
+
+.body-02-img img{
+	width: 75%;
+}
+
+.body-03-header h1{
+	margin-top: 0px;
+	width: 80%;
+}
+  
+
+ .body-03-header p{
+	width: 80%;
+	margin: 0px;
+
+}
+
+
+.body-03-img{
+	width: 90%;
+}
+
+
+.body-03-text h1{
+	margin: 0px;
+	font-size: 25px;
+	margin-top: 10px;
+}
+
+.body-03-text p{
+	width: 100%;
+
+
+}
+
+.col-md-4 {
+	max-width: 30%;
+}
+
+
+.body-04-text h1{
+	margin-top: 20px;
+}
+
+
+.body-04{
+	text-align: left;
+}
+
+.body-04-text h1{
+	font-size: 30px;
+	width: 85%;
+}
+
+
+.body-04-text p{
+	font-size: 16px;
+	width: 75%;
+}
+
+
+.body-02-img{
+	margin-top: 20px;
+}
+
+
+.body-05-header h1{
+	margin-top: 0px;
+	
+}
+
+.body-05-header p{
+	width: 85%;
+	margin: 0px;
+	
+}
+
+
+.body-05-header{
+	text-align: left;
+}
+
+.body-05-img img{
+	width: 80%;
+}
+
+.body-05-text .uu{
+	margin-left: 0px;
+}
+
+
+.body-05-button button {
+	padding: 8px 20px;
+}
+
+
+.body-06-header h1{
+	font-size: 50px;
+}
+
+
+
+.body-06-header p {
+	width: 85%;
+}
+
+.body-06-text{
+	text-align: left;
+}
+
+.body-06-text p{
+	font-size: 16px;
+}
+
+
+.body-06-text ul li a i {
+	width: 30px;
+}
+
+.body-07{
+	height: auto;
+}
+
+
+.body-07-info img{
+	margin-top: 20px;
+}
+
+
+.body-07-info h1{
+	font-size: 25px;
+	margin-top: 10px;
+}
+
+.body-08-header p{
+	width: 75%;
+}
+
+
+.card-img-top{
+	width: 70%;
+}
+
+.card-title{
+	width: 55%;
+}
+
+.card-text{
+	width: 50%;
+}
+
+.col-md-3{
+	max-width: 25%;
+}
+
+.body-09 h1{
+	font-size: 23px;
+}
+
+.body-02-img img{
+	margin-top: 50px;
+}
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+ .body-01 h1{
+ 	font-size: 35px;
+ }
+
+
+ .body-01 p {
+ 	font-size: 20px;
+}
+
+.body-01 button {
+	padding: 10px 10px;
+}
+
+.body-01-img img{
+	width: 80%;
+	margin-top: 20px;
+}
+
+.body-02-text h1 {
+	margin-top: 80px;
+	font-size: 30px;
+}
+
+.body-02-text p{
+	font-size: 20px;
+}
+
+.body-02-text button{
+	padding: 10px 10px;
+}
+
+.body-03-header p {
+	width: 90%;
+	font-size: 20px;
+}
+
+
+.body-03-header h1{
+	margin-top: 20px;
+	font-size: 50px;
+}
+
+.body-04-text h1 {
+	margin-top: 100px;
+	text-align: center;
+	font-size: 30px;
+}
+
+
+.body-04-text p {
+	margin-top: 10px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.body-04-text button{
+	margin-top: 10px;
+	text-align: center;
+	padding: 10px 10px;
+}
+
+.body-04{
+	text-align: center;
+}
+
+.body-05-header h1{
+	margin-top: 20px;
+	font-size: 50px;
+}
+
+.body-05-header p{
+	font-size: 20px;
+	width: 90%;
+}
+  
+  .body-05-img img{
+  	margin-top: 50px;
+  }
+
+
+  .body-06-header h1{
+  	margin-top: 20px;
+	font-size: 30px;
+  }
+
+  .body-06-header p{
+  	font-size: 20px;
+	width: 100%;
+  }
+
+
+  .body-08-header h1{
+  	font-size: 40px;
+  	margin-top: 20px;
+  }
+
+  .body-08-header p{
+  	font-size: 20px;
+  	width: 90%;
+  }
+
+
+  .body-09 ul {
+  	margin-top: 15px;
+}
+
+.body-09 ul li a{
+	font-size: 15px;
+}
+
+.futter-info h1{
+	font-size: 30px;
+}
+
+
+.futter-info p{
+	font-size: 15px;
+}
+
+.futter-info ul li a i{
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+}
+
+
+}
